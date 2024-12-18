@@ -236,6 +236,7 @@ background-color:rgba(36,25,243,1) ;
 .table li{
   font-size: 17px;
   line-height: 28px;
+  font-family:'Archivo', sans-serif; 
 }
 .footer{
   display: flex;
@@ -253,6 +254,7 @@ background-color:rgba(36,25,243,1) ;
   border-radius: 8px;
   font-size: 20px;
   font-weight: 500;
+  background-color: white;
 }
 
  
