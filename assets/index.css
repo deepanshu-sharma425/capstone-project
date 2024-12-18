@@ -134,12 +134,17 @@ padding-right: 40px;
 text-align: left;
 }
 .work-about{
-  width: 1536px;
+  width: 1510px;
   margin-left: -48px;
+  
   height: 900px;
   display: flex;
   align-items: center;
-  background: radial-gradient( rgba(255, 255, 255, 0.7),rgba(36, 25, 243, 0.042)) ;
+  /* background-image: linear-gradient( rgba(255, 255, 255, 0.7),rgba(36, 25, 243, 0.042)) ; */
+  background: linear-gradient(rgba(255, 255, 255, 0.7),rgba(36, 25, 243, 0.042));
+ 
+  
+  border-bottom: 1px solid black;
 }
 .explore{
   padding:-48px;
