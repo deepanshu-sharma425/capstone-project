@@ -134,13 +134,15 @@ padding-right: 40px;
 text-align: left;
 }
 .work-about{
-  width: 100%;
+  width: 1536px;
+  margin-left: -48px;
   height: 900px;
   display: flex;
   align-items: center;
   background: radial-gradient( rgba(255, 255, 255, 0.7),rgba(36, 25, 243, 0.042)) ;
 }
 .explore{
+  padding:-48px;
   width:624px;
   height: 276px;
   top: 312px;
@@ -209,6 +211,7 @@ background-color:rgba(36,25,243,1) ;
   display: flex;
   justify-content: center;
   align-items: center;
+  text-align: center;
 }
 .description p{
   font-size: 48px;
